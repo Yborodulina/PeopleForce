@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peopleforce-384223",
+  "private_key_id": "6d3e590fa6cb51fa501de260c37e59fbb25cc506",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWZpl5QFZIJ58A\n0/NZjLDYK8ZjDrL4ZGRe0iMP9w9GnOy6WTUJB8rlUBhkC7ZkQb2HzgMHJ/9X6vgH\nXE5P1ykDtp8mShlNUUquJ2Ewrlen5zqzTiwRWvWbCAH5PyLYM4+1NwLm4RD/aTV2\noAqyrQRnyNYE8WfWqWyKBHtWyXyK40BobfFMSeWiuDlzjzd8XM+vkmY24ZHCeX0T\nofgMuUSmxBdTIVe66A+0+ZNFKLJuZC1KYVFr0bwDKHHKhM0hmZaM1bmmNBWSwfRF\no+XId+JqAs6PQA6flHXJKUm0KDySQTbSJs2a/f7jBBWzDasDttx9teJscy9yYLMN\ndWyN1uiTAgMBAAECggEAIkz68orIQsN6gWNVTBaInHx7Tcsj6P9oXrG5GmKDotyW\nJrfCnzEeRmcacPK04a+WjJrg2Oh31TK6517XY2EUMwsax849cAM6r3Y+ta4FQr87\nBXquFTUz72wHmzMZfMphm3gU2tf4mu+BKHE+j1pjN1I38T+nKW9RWDbGdFgWZcwt\ntIzSet0Qkg1W0fC1rxdbu0EFGscaYCxtJoPCmxZO6zU69h2Qlet5zZEhtCMpqb1h\nxzmaHDwp5XgFPcRX6q+jRBC6dsxbzOAsejkpuGzFO2nzg3bHRIJVvpuRhJSCI6Cz\nAJWcG1Pp+rsUtCUA4fY0FUiKnFI8v8qeAr4xzamjjQKBgQDI/Q+Cncy9NhhMdwY5\nwgvsEmxM84o6ajVIKn5/SFD/fJQpKa3i/5C3JdLP82hgGUCYo5dgs/Y4RLBifN6a\ntMz7ex0N2xpVblj+LDv6xlS8HEljhLXx2w4cnolZstrJ7fszMq07OzsM26sA9+B5\nsW+XQrzt+qLeWZIdpG0eRBVH5wKBgQC/kPAp0Pdfx3r97fncZFwPOB3Pr4ideDrv\nXUzvnFsDYHZoe4BFzVDTM6XCuUyk6Ds72dCAyFRma0W3u5UOuMBX1Ktp5wWZGqOZ\nyEuHmx0vvOOLiuPQpaIVFawSBK0epRTNy0tZaIE/JNl4xUCu/zUSSLlTuohAI9KI\n88W2WakUdQKBgCu6u4wsryYfxeulHeqlKJjlbUDU4CdTgmJANKOW5WChB09pbRbt\nidv/U73A9N2rwN01ArOclB6r+0CCcKByZAL3R1wDZthdmOk8UJSAYGFJOkJ31mpX\nwdtCNxoYCvhSWgxKo1w2x+NFTBB63hE8JM5hS9/vX05HaL4gT0l9gK/TAoGBALdL\nRDCOrJNteCZNtLyHHnrFc+jLiQk7CBEOEdZWodL6UnGocdTYHhTnnxxRVp+XQU4E\nHHeMtw0EaUHi7z2V0xx29civ7vBOx+kV+Ab5iRSrRIG5VD/Iq+xGv0zCQq9Gv0Al\n26Ph1YEIjjj7a+fFcw9anFEb8tCENicqMKxI3/odAoGBAJGVUa39/HvDtEf53Vb6\ntp5GdYs51s6DDZyx9hEAqoje8SlOY301yvORZqgvQw68WFV0oTzjeZmPfKUrTinT\nVRQAHzzGMeJg73z4kBeAdwCEPD/d5oYNUrbQI+92TD6yVCo7BCuz/WK/k8ksG9rG\n5lbRTz+yw0piGATtuJWGwxpw\n-----END PRIVATE KEY-----\n",
+  "client_email": "peopleforce@peopleforce-384223.iam.gserviceaccount.com",
+  "client_id": "117765403720181433579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/peopleforce%40peopleforce-384223.iam.gserviceaccount.com"
+}
